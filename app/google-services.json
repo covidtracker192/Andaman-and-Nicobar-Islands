@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353761463754",
+    "firebase_url": "https://andaman-and-nicobar-islands.firebaseio.com",
+    "project_id": "andaman-and-nicobar-islands",
+    "storage_bucket": "andaman-and-nicobar-islands.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353761463754:android:6be07d7b17a963848a1333",
+        "android_client_info": {
+          "package_name": "com.covid19.andamanandnicobarislands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353761463754-a55n0734uqi79eq46e9vcph0ojd0maqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaY9i1Szz6JFfEAzUkLLZPiCzcbw7dno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353761463754-a55n0734uqi79eq46e9vcph0ojd0maqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
