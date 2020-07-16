@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "353761463754-78083466f1vj619mau1i8r250fnct39i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.andamanandnicobarislands",
+            "certificate_hash": "33de81bc7712e963e8c0e62d9a9d7ba3c5ef992c"
+          }
+        },
+        {
           "client_id": "353761463754-a55n0734uqi79eq46e9vcph0ojd0maqv.apps.googleusercontent.com",
           "client_type": 3
         }
