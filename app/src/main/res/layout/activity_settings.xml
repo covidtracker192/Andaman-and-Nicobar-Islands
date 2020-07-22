@@ -27,7 +27,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/switch1"
-        app:srcCompat="@drawable/delete_positive" />
+        app:srcCompat="@drawable/delete_positive"/>
 
     <ImageView
         android:id="@+id/imageView14"
